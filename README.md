@@ -25,6 +25,7 @@ The solution provided in this repository focuses on solving the second versions.
 - This yields an **average score** for each episode (where the average is over all 20 agents).
 
 The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30. Examples of trained agents are shown below.
+
 ![Trained Agent][image1]
 
 
